@@ -93,7 +93,7 @@ Design & Interactivity:
 
 🔗 View the Dashboard
 Check out the interactive Tableau dashboard here:
-👉 [Tableau Public Link]([https://public.tableau.com/app/profile/david.jian4862/viz/Medicare_Hospital_Dashboard/Dashboard2?publish=yes](https://public.tableau.com/app/profile/david.jian4862/viz/SalesPerformanceDashboard_17556682548670/SalesDashboard?publish=yes))
+👉 [Tableau Public Link](https://public.tableau.com/app/profile/david.jian4862/viz/SalesPerformanceDashboard_17556682548670/SalesDashboard?publish=yes)
 
 📜 License
 ---
