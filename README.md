@@ -103,6 +103,6 @@ This project is licensed under the MIT License. Feel free to use or adapt the wo
 ---
 For questions or collaborations:
 
-📧 [koifish.analytics@gmail.com]
+📧 koifish.analytics@gmail.com
 
 💼 [LinkedIn](https://www.linkedin.com/in/davidjian00/)
